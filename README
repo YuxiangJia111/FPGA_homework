@@ -1,0 +1,13 @@
+生成python验证文件
+1，在FPGA目录中 进入虚拟venv 
+source .venv/bin/activate
+退出方法
+1，终端输入deactivate
+
+
+
+
+
+1，测试方法，进入tb中对应的程序目录内
+2，运行make进行编译
+3，make sim进行测试
